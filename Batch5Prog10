@@ -2,3 +2,8 @@
 #Example:
 #Input: jUAn DEla CrUZ
 #Output: juan_dela_cruz
+
+#Ask user for full name input
+#Convert all characters to lowercase
+#Join words with underscores
+#Print the result

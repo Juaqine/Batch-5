@@ -2,3 +2,7 @@
 #Example:
 #Input: jUAn DEla CrUZ
 #Output: Juan Dela Cruz
+
+#Ask user for full name input
+#Convert input to title case
+#Print the result

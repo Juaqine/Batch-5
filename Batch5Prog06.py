@@ -2,3 +2,7 @@
 #Example:
 #Input: jUAn DEla CrUZ
 #Output: JuaN deLA cRuz
+
+#Ask user for full name input
+#Swap uppercase to lowercase and vice versa
+#Print the result

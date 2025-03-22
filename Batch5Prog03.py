@@ -6,3 +6,6 @@
 #Ask user for full name input
 #Convert input to uppercase
 #Print the result
+
+fullname = input("Enter your full name: ")
+print(fullname.upper())

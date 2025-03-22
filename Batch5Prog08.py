@@ -2,3 +2,8 @@
 #Example:
 #Input: Juan Dela Cruz
 #Output: 14
+
+#Ask user for full name input
+#Remove spaces
+#Count remaining characters
+#Print the result

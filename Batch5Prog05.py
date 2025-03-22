@@ -6,3 +6,6 @@
 #Ask user for full name input
 #Convert input to title case
 #Print the result
+
+fullname = input("Enter your full name: ")
+print(fullname.title())

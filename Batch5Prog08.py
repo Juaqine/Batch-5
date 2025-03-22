@@ -7,3 +7,6 @@
 #Remove spaces
 #Count remaining characters
 #Print the result
+
+fullname = input("Enter your full name: ")
+print(len(fullname.replace(" ", "")))

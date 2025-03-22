@@ -6,3 +6,6 @@
 #Ask user for a complete statement
 #Count the words in the statement
 #Print the word count
+
+statement = input("Enter a complete statement: ")
+print(len(statement.split()))

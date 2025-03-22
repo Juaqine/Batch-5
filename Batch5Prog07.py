@@ -2,3 +2,7 @@
 #Example:
 #Input: We will weather the weather whatever the weather whether we like it or not
 #Output: 14
+
+#Ask user for a complete statement
+#Count the words in the statement
+#Print the word count

@@ -7,3 +7,6 @@
 #Convert each word to capitalized format
 #Join words without spaces
 #Print the result
+
+fullname = input("Enter your full name: ")
+print(''.join(word.capitalize() for word in fullname.split()))

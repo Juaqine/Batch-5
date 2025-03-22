@@ -3,3 +3,6 @@
 #Input: Juan Dela Cruz
 #Output: Juan Dela Cruz
 
+#Ask user for full name input
+#Remove leading spaces
+#Print the result

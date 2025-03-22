@@ -6,3 +6,6 @@
 #Ask user for a number between 0 and 1000
 #Convert number to a 6-digit format with leading zeros
 #Print the result
+
+number = int(input("Enter a number (0-1000): "))
+print(f"{number:06}")

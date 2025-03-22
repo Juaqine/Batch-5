@@ -6,3 +6,6 @@
 #Ask user for full name input
 #Remove leading spaces
 #Print the result
+
+fullname = input("Enter your full name: ")
+print(fullname.lstrip())
